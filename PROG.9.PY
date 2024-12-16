@@ -1,4 +1,4 @@
-# suhu celcius = 24
+# suhu celcius = 30
 # suhu dalam Fahrenhit = 75.2
 # suhu dalam kelvin = 297.15
 # suhu dalam reamur = 19.2
